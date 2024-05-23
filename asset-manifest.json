@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.53a81fa7.css",
+    "main.js": "./static/js/main.e253df38.js",
+    "static/media/banner-tablets.png": "./static/media/banner-tablets.3ab0c9b71cae9e04b094.png",
+    "static/media/banner-phones.png": "./static/media/banner-phones.f509ad3c8ed651749cb5.png",
+    "static/media/banner-accessories.png": "./static/media/banner-accessories.6a3884f3f1091702f8ed.png",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/shopping-bag-cart.svg": "./static/media/shopping-bag-cart.f9632dca8fdaed9bb696.svg",
+    "static/media/favourites-heart-like.svg": "./static/media/favourites-heart-like.670cf5136eb8aecd15dc.svg",
+    "static/media/menu.svg": "./static/media/menu.744ac0b04d84e4feeeb5.svg",
+    "static/media/slider-button-default-right.svg": "./static/media/slider-button-default-right.c7196a9a19e2298fe8ce.svg",
+    "static/media/slider-button-hover-right.svg": "./static/media/slider-button-hover-right.578fabbe7751be8852d2.svg",
+    "index.html": "./index.html",
+    "main.53a81fa7.css.map": "./static/css/main.53a81fa7.css.map",
+    "main.e253df38.js.map": "./static/js/main.e253df38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a81fa7.css",
+    "static/js/main.e253df38.js"
+  ]
+}
